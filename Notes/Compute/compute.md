@@ -23,8 +23,6 @@
 - Windows Virtual Desktop - VDI
 - Azure Functions - Cloud FaaS
 
-[Intro to Azure Compute Docs](https://docs.microsoft.com/learn/modules/intro-to-azure-compute/2-essential-azure-compute-concepts)
-
 ---
 
 ## **Helpful Links**
