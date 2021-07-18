@@ -151,4 +151,3 @@
   - If there is no traffic there is no resource usage.
 - Functions are resilient.
   - If your function fails, it doesn't affect other function instances.
-- 
