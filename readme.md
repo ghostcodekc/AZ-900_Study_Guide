@@ -6,6 +6,6 @@ This study guide will help you pass the newer AZ-900 Microsoft Azure Fundamental
 
 ## Table of Contents:
 
-[Compute](./Notes/Compute/compute.md)
-
+[Compute](./Notes/01-Compute/compute.md)
+[Networking](Notes/02-Networking/networking.md)
 
